@@ -1,0 +1,14 @@
+.regular {
+    background-color: black;
+    color: white;
+}
+
+.colorful {
+    background-color: yellow;
+}
+
+.regular, 
+.colorful {
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
